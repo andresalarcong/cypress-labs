@@ -6,5 +6,6 @@ XPATH is used as a plugin to effectively locate elements in the DOM.
 
 Steps for execution:
 
-npm install
-npm run cypress:run
+$ npm install
+
+$ npm run cypress:run
